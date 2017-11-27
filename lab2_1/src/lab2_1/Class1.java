@@ -9,5 +9,9 @@ public class Class1 {
 	public void firstMethod(){
 		
 	}
+	
+	public void secondMethod(){
+		
+	}
 
 }
